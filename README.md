@@ -1,4 +1,7 @@
 # bee1101-number-problem
+[main.c](https://github.com/user-attachments/files/23598640/main.c)
+#include <stdio.h>
+#include <stdlib.h>
 #include <stdio.h>
 int main(){
 int m,n;
